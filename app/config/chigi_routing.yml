@@ -1,3 +1,3 @@
 acme_emp:
-    resource: "@AcmeEmpBundle/Resources/config/routing.yml"
-    prefix:   /acme_emp/
+    resource: "@AcmeDemoBundle/Resources/config/routing.yml"
+    prefix:   /demo/
